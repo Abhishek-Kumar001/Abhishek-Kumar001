@@ -185,13 +185,10 @@ const abhishek = {
 
 </div>
 
----
 
-## 📈 Contribution Graph
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Kumar001&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" />
-</div>
+</div> -->
 
 ---
 
