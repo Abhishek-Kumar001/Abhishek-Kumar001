@@ -24,7 +24,7 @@
   <a href="https://leetcode.com/u/Abhishek_Gupta1255/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://abhi-dev.lovable.app/" target="_blank">
+  <a href="https://abhi-g-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
