@@ -181,7 +181,7 @@ const abhishek = {
 
 <br/><br/>
 
-<img height="180em" src="https://leetcard.jacoblin.cool/Abhishek_Gupta1255?theme=dark&font=baloo_2&bg_color=0d1117&hide_border=true" />
+<!-- <img height="180em" src="https://leetcard.jacoblin.cool/Abhishek_Gupta1255?theme=dark&font=baloo_2&bg_color=0d1117&hide_border=true" /> -->
 
 </div>
 
