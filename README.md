@@ -173,6 +173,20 @@ const abhishek = {
 
 ---
 
+## 🟩 LeetCode Stats & Heatmap
+
+<div align="center">
+
+<img height="300em" src="https://leetcard.jacoblin.cool/Abhishek_Gupta1255?theme=dark&font=baloo_2&ext=heatmap&bg_color=0d1117&border=0&hide_border=true" />
+
+<br/><br/>
+
+<img height="180em" src="https://leetcard.jacoblin.cool/Abhishek_Gupta1255?theme=dark&font=baloo_2&bg_color=0d1117&hide_border=true" />
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
