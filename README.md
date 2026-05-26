@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20MERN%20%2B%20LLM%20Applications&descSize=18&descAlignY=60&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=React.js+%7C+Node.js+%7C+MongoDB+Developer;Building+Scalable+SaaS+Applications;AI+API+Integration+%7C+Performance+Optimization;Open+to+exciting+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+AI+Engineer+%7C+MERN+%2B+LLM;Building+AI-Powered+SaaS+Applications;LangChain+%7C+LangGraph+%7C+Gemini+AI+Integration;Shipped+to+5000%2B+Users+in+Production+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -42,28 +42,41 @@
 const abhishek = {
   name:       "Abhishek Kumar",
   location:   "Bangalore, Karnataka 🇮🇳",
-  role:       "Full Stack Software Engineer",
+  role:       "Full Stack AI Engineer",
   experience: "1+ year in production SaaS",
   currentJob: "Techpearl Software Pvt. Ltd.",
 
   focusAreas: [
-    "Scalable Full-Stack Applications",
-    "AI API Integration (Gemini)",
-    "Performance Optimization",
-    "Enterprise Multi-Tenant SaaS"
+    "AI-Powered Full-Stack Applications",
+    "LLM Integration — LangChain & LangGraph",
+    "Gemini AI API · Chatbots · LLM Workflows",
+    "Enterprise Multi-Tenant SaaS",
+    "Performance Optimization"
   ],
 
   achievements: {
+    aiIntegration:     "Production LLM workflows shipped",
     apiCallReduction:  "40% fewer API calls",
     pageLoadTime:      "Sub-2s load times",
     concurrentUsers:   "5000+ supported",
-    problemSolving:   "Solved 500+ DSA questions"
+    problemSolving:    "Solved 500+ DSA questions"
   },
 
-  currentlyLearning: ["System Design", "DevOps", "AWS"],
-  openToWork: true 🚀
+  currentlyLearning: ["LangGraph Agents", "System Design", "DevOps", "AWS"],
+  openToWork: true  // 🚀 Full Stack AI roles
 };
 ```
+
+---
+
+## 🤖 AI & LLM Stack
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logo=graphql&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00C7B7?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
@@ -98,7 +111,6 @@ const abhishek = {
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -110,16 +122,17 @@ const abhishek = {
 <br/>
 
 **🤖 AI-Powered Interview Prep Platform**
-- Architected full platform integrating **Gemini AI API** to analyze resumes against JDs
-- Generated custom interview questions and skill gap analysis automatically
+- Architected full-stack platform integrating **Gemini AI API** to analyze resumes against JDs
+- Built **LLM-driven** pipelines to auto-generate custom interview questions and skill gap analysis
+- Designed prompt engineering workflows for accurate, context-aware AI responses
 
 **🏢 HR Automation SaaS (Enterprise)**
 - Built **React 18 / TypeScript + Redux Toolkit + React Query** frontend for multi-tenant onboarding
-- Implemented nested workflow engine, AI-powered chat, AWS S3 document uploads
+- Implemented nested workflow engine, **AI-powered chat assistant**, AWS S3 document uploads
 - **Result:** ⬇️ 40% fewer API calls · ⚡ < 2s page load · 👥 5000+ concurrent users
 
-**📄 PDF Generation Pipeline**
-- Built Puppeteer-based backend to auto-generate ATS-optimized PDFs from AI-parsed resume data
+**📄 AI-Driven PDF Generation Pipeline**
+- Built Puppeteer-based backend to auto-generate ATS-optimized PDFs from **AI-parsed resume data**
 
 </details>
 
@@ -179,16 +192,14 @@ const abhishek = {
 
 <img height="300em" src="https://leetcard.jacoblin.cool/Abhishek_Gupta1255?theme=dark&font=baloo_2&ext=heatmap&bg_color=0d1117&border=0&hide_border=true" />
 
-<br/><br/>
-
-<!-- <img height="180em" src="https://leetcard.jacoblin.cool/Abhishek_Gupta1255?theme=dark&font=baloo_2&bg_color=0d1117&hide_border=true" /> -->
-
 </div>
+
+---
 
 
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Kumar001&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" />
-</div> -->
+</div>  -->
 
 ---
 
@@ -196,12 +207,12 @@ const abhishek = {
 
 <div align="center">
 
-| 📦 Production Impact | 🔧 Core Skills | 🌱 Learning |
+| 📦 Production Impact | 🤖 AI Skills | 🌱 Learning |
 |---|---|---|
-| 5000+ Concurrent Users | MERN Stack | System Design |
-| 40% Fewer API Calls | TypeScript | DevOps |
-| Sub-2s Load Times | AI Integration | AWS Cloud |
-| Enterprise SaaS Shipped | Socket.IO | Advanced Backend |
+| 5000+ Concurrent Users | LangChain & LangGraph | System Design |
+| 40% Fewer API Calls | Gemini AI Integration | DevOps |
+| Sub-2s Load Times | LLM Workflows & RAG | AWS Cloud |
+| Enterprise SaaS Shipped | Prompt Engineering | LangGraph Agents |
 
 </div>
 
@@ -211,7 +222,7 @@ const abhishek = {
 
 ### 📬 Let's Connect!
 
-*I'm open to exciting full-stack roles, freelance projects, and collaborations.*
+*I'm open to Full Stack AI Engineer roles, freelance projects, and collaborations.*
 
 <a href="mailto:abhigupta12558@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
